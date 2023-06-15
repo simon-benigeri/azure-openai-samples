@@ -4,3 +4,5 @@ solutions/AzureOpenAIUtil/
 .amlignore
 .amlignore.amltmp
 .env
+quick_start/data/Hacktahon_Data.csv
+quick_start/.ipynb_checkpoints/07_best_practice-checkpoint.ipynb
